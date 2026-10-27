@@ -42,7 +42,12 @@ such as,
 
 You can consider using [rvmm-zygisk-mount](https://github.com/j-hc/rvmm-zygisk-mount)
 ## Install
-[![Get YT & YT Music on Obtainium](https://raw.githubusercontent.com/ImranR98/Obtainium/main/assets/graphics/badge_obtainium.png)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://apps/%5B%7B%22id%22%3A%22app.morphe.android.youtube%22%2C%22name%22%3A%22YouTube%22%2C%22author%22%3A%220xRafay%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2F0xRafay%2Frevanced-magisk-module%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22youtube-morphe.*-all%5C%5C%5C%5C.apk%24%5C%22%7D%22%7D%2C%7B%22id%22%3A%22app.morphe.android.apps.youtube.music%22%2C%22name%22%3A%22YouTube%20Music%22%2C%22author%22%3A%220xRafay%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2F0xRafay%2Frevanced-magisk-module%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22music-morphe.*arm64-v8a%5C%5C%5C%5C.apk%24%5C%22%7D%22%7D%5D)
+
+### Youtube
+[![Get YouTube on Obtainium](https://raw.githubusercontent.com/ImranR98/Obtainium/main/assets/graphics/badge_obtainium.png)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.morphe.android.youtube%22%2C%22name%22%3A%22YouTube%22%2C%22author%22%3A%220xRafay%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2F0xRafay%2Frevanced-magisk-module%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22youtube-morphe.*-all%5C%5C%5C%5C.apk%24%5C%22%7D%22%7D)
+
+### YT Music
+[![Get YouTube Music on Obtainium](https://raw.githubusercontent.com/ImranR98/Obtainium/main/assets/graphics/badge_obtainium.png)](https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.morphe.android.apps.youtube.music%22%2C%22name%22%3A%22YouTube%20Music%22%2C%22author%22%3A%220xRafay%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2F0xRafay%2Frevanced-magisk-module%22%2C%22additionalSettings%22%3A%22%7B%5C%22apkFilterRegEx%5C%22%3A%5C%22music-morphe.*arm64-v8a%5C%5C%5C%5C.apk%24%5C%22%7D%22%7D)
 
 ## Building Locally
 ### On Termux
